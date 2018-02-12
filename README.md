@@ -1,7 +1,7 @@
 # EvalStudentGrade
-Evaluates Student's garde based on given dates.
-First paramter takes high school graduation date in "yyyy-MM-DD" format.
-Second paramter takes date on which the grade is evaluated.
+Evaluates Student's grade based on given dates.
+First parameter takes high school graduation date in "yyyy-MM-DD" format.
+Second parameter takes date on which the grade is evaluated.("yyyy-MM-DD")
 
 Assumptions:
 1. date inputs are provided in valid format( else system throws exception)
